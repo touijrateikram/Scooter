@@ -11,7 +11,7 @@ Visualiser les informations détaillées de chaque scooter.
 
 Technologies : Java, Swing (interface graphique).
 
-Projet académique réalisé en Licence 2 d'informatique par : Ikram TOUIJRATE.
+Projet académique réalisé en Licence 2 d'informatique par : Ikram TOUIJRATE
 ## Images du projet
 
 ### parc 
