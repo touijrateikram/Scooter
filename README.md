@@ -1,6 +1,6 @@
 # Projet-java : Application de gestion de scooters 
 
-Contenu du projet
+# Contenu du projet
 
 Développement d'une application de gestion de scooters permettant à l'utilisateur de :
 
